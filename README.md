@@ -1,7 +1,7 @@
 # Tavtie-Simple-Forum-Design-Flarum
 Soft and Beautiful Forum Design Flarum
 
-[!Alt text](https://i.imgur.com/reZZPp3.png)
+![Alt text](https://i.imgur.com/reZZPp3.png)
 
 **Tavtie Design**
 
