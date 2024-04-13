@@ -1,12 +1,9 @@
-# Tavtie-Simple-Forum-Design-Flarum
-Soft and Beautiful Forum Design Flarum
+![](https://i.imgur.com/reZZPp3.png =60x60)
 
-![Alt text](https://i.imgur.com/reZZPp3.png)
+[center][size=25]**Tavtie Design**[/size][/center]
 
-**Tavtie Design**
-
-https://i.imgur.com/DFZbQvx.png https://i.imgur.com/S0Wpm3n.png
-https://i.imgur.com/8HlHnzi.png
+![](https://i.imgur.com/DFZbQvx.png | width=368) ![](https://i.imgur.com/S0Wpm3n.png | width=368)
+![](https://i.imgur.com/8HlHnzi.png | width=368)
 
 ### About The Design
 This design is inspired by the Asirem theme. I reached this design by making a few changes on the default theme of Flarum. I want to share it with you, thinking you will like it.
@@ -344,4 +341,3 @@ span.spoiler {
 ### Links
 - [Github](https://github.com/stasarr)
 - [Demo Link](https://forum.staup.online)
-
