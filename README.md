@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/reZZPp3.png =60x60)
+![alt text](https://i.imgur.com/reZZPp3.png {width=60px height=60px})
 
 [center][size=25]**Tavtie Design**[/size][/center]
 
