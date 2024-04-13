@@ -310,4 +310,8 @@ span.spoiler {
 .BlogForumNav {
     display:none;
 }}
+
+lite-youtube{
+    border-radius: var(--border-radius) !important;
+}
 /* THEMES END ####################################################### */
