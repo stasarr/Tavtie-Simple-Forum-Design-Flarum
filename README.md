@@ -1,9 +1,9 @@
 <img src="https://i.imgur.com/reZZPp3.png" width="60" height="60">
 
-[center][size=25]**Tavtie Design**[/size][/center]
+# **Tavtie Design**
 
-![](https://i.imgur.com/DFZbQvx.png | width=368) ![](https://i.imgur.com/S0Wpm3n.png | width=368)
-![](https://i.imgur.com/8HlHnzi.png | width=368)
+<img src="https://i.imgur.com/DFZbQvx.png" width="368"> <img src="https://i.imgur.com/S0Wpm3n.png" width="368">
+<img src="https://i.imgur.com/8HlHnzi.png" width="368">
 
 ### About The Design
 This design is inspired by the Asirem theme. I reached this design by making a few changes on the default theme of Flarum. I want to share it with you, thinking you will like it.
